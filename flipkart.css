@@ -1,0 +1,198 @@
+.headerContainer {
+  display: flex;
+  height: 70px;
+  background-color:#047BD5;
+
+  width: 100%;
+  
+}
+
+.logoName{
+  display: flex;
+  margin-left: 250px;
+}
+.nameContainer {
+  display: flex;
+  flex-direction: column;
+  height: 40px;
+  margin-top: 20px;
+  
+
+}
+.secondName {
+  display: flex;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+}
+
+
+.firstName {
+  color: aliceblue;
+  font-size: 30px;
+margin-bottom: -8px;
+}
+/*.searchbar {
+  display: flex;
+  margin-top:-8px;
+  color: white;
+}*/
+.search {
+  display: flex;
+  height: 30px;
+  margin-top: 25px;
+  width: 250px;
+  margin-left: 10px;
+}
+.loginbutton {
+  display: flex;
+  background-color: white;
+  color: #047BD5;
+width: 80px;
+  height: 25px;
+  margin-top:26px;
+  padding: 4px;
+  margin-left: 8px;
+  font-size: 20px;
+}
+  
+
+.optionsContainer {
+  display: flex;
+  color: white;
+  justify-content: space-around;
+  font-size: 20px;
+  width: 300px;
+  margin-top: 30px;
+  margin-left: 30px;
+
+}
+.MenuContainer {
+  display: flex;
+
+  background-color: white;
+  height: 30px;
+  justify-content: space-around;
+  padding: 10px;
+}
+.productContainer {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+background-color: white;
+  margin-left: 5px;
+  margin-right: 5px;
+  width: 100%;
+  margin-top: 11px;
+
+}
+.product1 {
+  display: flex;
+
+  flex-wrap: wrap;
+
+  padding: 40px;
+  height: 160px;
+  width: 170px;
+  margin: 20px;
+  font-size: 16px;
+}
+.product2 {
+  display: flex;
+
+  flex-wrap: wrap;
+
+  padding: 40px;
+  height: 160px;
+  width: 180px;
+  margin: 20px;
+  font-size: 16px;
+}
+.product3 {
+  display: flex;
+
+  flex-wrap: wrap;
+
+  padding: 40px;
+  height: 160px;
+  width: 150px;
+  margin: 20px;
+  font-size: 16px;
+}
+.product4 {
+  display: flex;
+
+  flex-wrap: wrap;
+
+  padding: 40px;
+  height: 160px;
+  width: 150px;
+  margin: 20px;
+  font-size: 16px;
+}
+.product5 {
+  display: flex;
+
+  flex-wrap: wrap;
+
+  padding: 40px;
+  height: 160px;
+  width: 150px;
+  margin: 20px;
+  font-size: 16px;
+}
+.product6 {
+  display: flex;
+
+  flex-wrap: wrap;
+
+  padding: 40px;
+  height: 160px;
+  width: 150px;
+  margin: 20px;
+  font-size: 16px;
+}
+.price {
+  color: darkgreen;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.name{
+  text-align: center;
+
+}
+.image{
+  display: flex;
+  
+}
+.cameraimage{
+  display: flex;
+  margin-right: 10px;
+}
+.printerparagraph{
+  display: flex;
+  margin-left: 50px;
+}
+.jewelparagraph{
+  display: flex;
+  margin-left: 32px;
+}
+
+.paraContainer{
+  text-align: center;
+  background-color: white;
+  width: 100%;
+  margin-left: 5px;
+  margin-top: 5px;
+  margin-right: 5px;
+margin-bottom:-8px;
+}
+
+.body{
+  display: flex;
+  background-color:lightsteelblue;
+  flex-wrap: wrap;
+}
+.cartContainer{
+  display: flex;
+  flex-wrap: wrap;
+}
